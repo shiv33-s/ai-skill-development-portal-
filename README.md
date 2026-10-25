@@ -1,57 +1,57 @@
-# Voice-Assisted Smart Navigation Stick
+# AI-Powered Capacity Building & Skill Development Portal
 
 ## 📌 About the Project
-The Voice-Assisted Smart Navigation Stick is an assistive technology project designed to help visually impaired people detect nearby obstacles. It uses sensors to identify obstacles and provides audio alerts to help users navigate their surroundings.
+The AI-Powered Capacity Building & Skill Development Portal is a web-based platform designed to help students identify skill gaps and discover relevant learning resources. It aims to connect students' existing skills with the skills required for their desired career opportunities.
 
 ## 🎯 Objectives
-- Detect obstacles in front of the user.
-- Provide audio alerts when obstacles are detected.
-- Explore affordable assistive technology.
-- Improve awareness of nearby obstacles while walking.
+- Identify skills required for career opportunities.
+- Help students understand their skill gaps.
+- Recommend relevant courses and learning resources.
+- Support continuous learning and skill development.
 
 ## ✨ Key Features
-- Ultrasonic-based obstacle detection.
-- Voice or audio alerts.
-- Microcontroller-based operation.
-- Compact and portable design.
+- Student-friendly web interface.
+- Skill assessment and skill-gap identification.
+- Learning resource recommendations.
+- Student progress tracking.
+- Centralized learning information.
 
-## 🛠️ Hardware Components
-- Arduino Nano
-- Ultrasonic sensor
-- DFPlayer Mini audio module
-- Speaker
-- Power supply
-- Connecting wires and other required components
+## 🛠️ Technologies Used
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Python Flask
+- **Database:** MySQL
+- **Additional tools:** Add the NLP and document-processing libraries actually used in your implementation.
 
-## 💻 Technologies Used
-- Embedded C/C++ or Arduino programming
-- Arduino IDE
-- Ultrasonic distance measurement
-- Audio playback module
+## ⚙️ Installation and Setup
+1. Clone this repository.
+2. Install the required dependencies listed in `requirements.txt`, if provided.
+3. Configure the database and environment variables according to your project setup.
+4. Run the Flask application using the command specified in your project instructions.
 
-## ⚙️ Working Principle
-1. The ultrasonic sensor measures the distance to nearby objects.
-2. The microcontroller processes the distance readings.
-3. When an obstacle is detected within the configured range, the system triggers an audio alert.
-4. The user receives the alert and can respond accordingly.
+## ▶️ How to Use
+1. Open the web application.
+2. Enter the required student or skill information.
+3. Review the identified skill gaps, if implemented.
+4. Explore the recommended learning resources.
+5. Track learning progress, if supported.
 
 ## 🚧 Project Status
-Update this section to reflect the actual status: Planning, In Development, Prototype, or Completed.
+Update this section to reflect the actual state of your project: Planning, In Development, Prototype, or Completed.
 
 ## 🔮 Future Enhancements
-- Add vibration alerts.
-- Improve battery efficiency.
-- Add water or pit detection, if suitable sensors are available.
-- Improve outdoor usability and obstacle detection.
-
-## ⚠️ Safety Note
-This project is an assistive prototype and should not be considered a replacement for a conventional mobility cane or orientation and mobility training.
+- Personalized AI-based learning recommendations.
+- Integration with online learning platforms.
+- Resume-based skill extraction.
+- Improved student progress analytics.
 
 ## 👩‍💻 Author
-**Your Name**
+Shivani Raje
 
 B.Tech – Artificial Intelligence and Machine Learning
 
-GitHub: [https://github.com/shiv33-s](https://github.com/shiv33-s)
+GitHub: [https://github.com/shiv33-s
+](https://github.com/shiv33-s)
+
+
 
 
